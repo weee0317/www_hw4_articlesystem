@@ -1,0 +1,21 @@
+.article-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.article-content {
+    font-size: 16px;
+}
+
+.article-time {
+    font-size: 12px;
+}
+
+.edit, .delete {
+    border: none;
+    background-color:white;
+}
+
+.post{
+    margin: 20px;
+}
